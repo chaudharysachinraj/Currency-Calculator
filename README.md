@@ -60,7 +60,7 @@ cd currency-calculator
 
 ## 📸 Screenshots
 
-![Currency Calculator Screenshot](screenshots/screenshot.png)
+![Currency Calculator Screenshot](screenshots/Screenshot.png)
 
 
 ---
