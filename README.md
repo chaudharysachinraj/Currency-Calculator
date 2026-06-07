@@ -2,6 +2,10 @@
 
 A simple and user-friendly Currency Calculator web application that allows users to convert one currency into another using selectable country currencies and flags.
 
+🔗 **Live Demo:** https://chaudharysachinraj.github.io/Currency-Calculator/
+
+📂 **GitHub Repository:** https://github.com/chaudharysachinraj/Currency-Calculator
+
 ---
 
 ## 📌 Features
